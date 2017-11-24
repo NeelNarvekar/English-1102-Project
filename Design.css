@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+html,
+body {
+    height: 85%;
+    background-color: #00FF7F;
+    font-family: 'Open Sans', sans-serif;
+    background: url(chain.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.a {
+    color: white;
+    border-style: solid;
+    display: inline-block;
+    padding: 7.5px;
+    padding-top: 0px;
+    padding-right: 7.5px;
+    padding-bottom: 0px;
+    border-width: 0px;
+    background-color: rgba(88, 88, 88, 0.6);
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.intro {
+    color: white;
+    border-style: solid;
+    display: inline-block;
+    padding: 7.5px;
+    padding-top: 0px;
+    padding-right: 7.5px;
+    padding-bottom: 0px;
+    border-width: 0px;
+    background-color: rgba(88, 88, 88, 0.6);
+    font-size: 15px;
+}
+
+#BUTTON,
+#BUTTON2,
+#BUTTON3,
+#BUTTON4,
+#BUTTON5,
+#BUTTON6,
+#BUTTON7,
+#BUTTON8 {
+    margin: 0;
+    padding: 0;
+    color: white;
+    list-style-type: none;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    display: none;
+}
+
+#TEST,
+#TEST2,
+#TEST3,
+#TEST4,
+#TEST5,
+#TEST6,
+#TEST7,
+#TEST8,
+#TEST9 {
+    color: white;
+    border-style: solid;
+    display: inline-block;
+    padding: 7.5px;
+    padding-top: 0px;
+    padding-right: 7.5px;
+    padding-bottom: 0px;
+    border-width: 0px;
+    background-color: rgba(88, 88, 88, 0.6);
+    font-size: 15px;
+}
+
+.b {
+    color: white;
+    padding: 7.5px;
+    padding-top: 10px;
+    padding-right: 7.5px;
+    padding-bottom: 10px;
+    border-width: 0px;
+    background-color: rgba(88, 88, 88, 0.6);
+    font-size: 30px;
+    max-width: 50%
+}
+
+.w3-wide {
+    color: white;
+    border-style: solid;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+    padding: 10px;
+    display: inline-block;
+    border: 2px outset gray;
+    background-color: rgba(88, 88, 88, 0.6);
+}
+
+.w3-opacity {
+    color: white;
+    border-style: solid;
+    display: inline-block;
+    padding: 10px;
+    border-width: 0px;
+    background-color: rgba(88, 88, 88, 0.6);
+    max-width: 75%
+}
+
+.w3-justify {
+    color: white;
+    text-decoration: underline;
+    border-style: solid;
+    display: inline-block;
+    padding: 10px;
+    border-width: 0px;
+    background-color: rgba(88, 88, 88, 0.6);
+}
+
+#navbar > ul {
+    margin: 0;
+    padding: 0;
+    color: white;
+    list-style-type: none;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#navbar > ul > li {
+    margin: 2em;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0);
+    float: center;
+    border-bottom: solid white 0px;
+    position: relative;
+    font-weight: bold;
+}
+
+.nav-link {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-style: solid;
+    display: inline-block;
+    padding: 10px;
+    border-width: 0px;
+    background-color: rgba(88, 88, 88, 0.6);
+}
